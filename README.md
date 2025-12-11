@@ -1,8 +1,8 @@
 Library Management System in Java Output:
-![LibManagementDBOP1]()
-![LibManagementDBOP1]()
-![LibManagementDBOP1]()
-![LibManagementDBOP1]()
+![LibManagementDBOP1](libDB1.png)
+![LibManagementDBOP2](libDB2.png)
+![LibManagementDBOP3](libDB3.png)
+![LibManagementDBOP4](libDB4.png)
 ![LibMOP1]()
 ![LibMOP1]()
 ![LibMOP1]()
