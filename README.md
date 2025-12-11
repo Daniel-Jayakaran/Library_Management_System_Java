@@ -1,10 +1,10 @@
-Library Management System in Java Output:
+Library Management System Developed in Java and used Phpadmin XMAP DB; Outputs:
 ![LibManagementDBOP1](libDB1.png)
 ![LibManagementDBOP2](libDB2.png)
 ![LibManagementDBOP3](libDB3.png)
 ![LibManagementDBOP4](libDB4.png)
-![LibMOP1]()
-![LibMOP1]()
-![LibMOP1]()
-![LibMOP1]()
-![LibMOP1]()
+![LibMOP1](libMOP1.png)
+![LibMOP1](libMOP2.png)
+![LibMOP1](libMOP3.png)
+![LibMOP1](libMOP4.png)
+![LibMOP1](libMOP5.png)
